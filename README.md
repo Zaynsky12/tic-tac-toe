@@ -699,7 +699,7 @@ button:active {
   }
   
   h1 {
-    font-size: 0.7em;
+    font-size: 1.3em;
     letter-spacing: 2px;
     margin-bottom: 8px;
     animation: none;
@@ -848,7 +848,7 @@ button:active {
   }
   
   h1 {
-    font-size: 1.1em;
+    font-size: 0.7em;
     letter-spacing: 1px;
   }
   
