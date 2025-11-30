@@ -688,7 +688,6 @@ button:active {
 @media (max-width: 600px) {
   body {
     padding: 10px;
-    position: fixed;
     width: 100vw;
     height: 100vh;
   }
