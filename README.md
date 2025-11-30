@@ -872,7 +872,7 @@ button:active {
   }
   
   button {
-    font-size: 0.7em;
+    font-size: 0.95em;
   }
 }
 </style>
