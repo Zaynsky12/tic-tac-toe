@@ -853,7 +853,7 @@ button:active {
   }
   
   .cell {
-    font-size: 1.8em;
+    font-size: 0.7em;
   }
   
   button {
