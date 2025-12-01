@@ -263,11 +263,6 @@ h1 {
 
 .cell::before {
   content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
   background: linear-gradient(45deg, transparent, rgba(0, 255, 255, 0.1), transparent);
   transform: translateX(-100%);
   transition: transform 0.6s;
